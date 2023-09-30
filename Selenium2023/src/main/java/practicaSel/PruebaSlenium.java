@@ -7,7 +7,7 @@ public class PruebaSlenium {
 
 	public static void main(String[] args) {
 		WebDriver driver = new ChromeDriver();
-		driver.get("http://www.facebook.com");
+		driver.get("http://www.test.com");
 		
 				
 
